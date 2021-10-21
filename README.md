@@ -151,4 +151,4 @@ live: live programming
 
 去跟对象(Objects)玩耍，把它们看作你房间里的玩具，推一推它，堆在一起试试...
 
-目前的文档不多([Croquet Programming 1.0B](/post/img/Croquet Programming 1.0B.pdf)几乎是仅有的)，可以通过测试(tests)代码去理解对象。
+目前的文档不多([Croquet Programming 1.0B](https://wwj718.github.io/post/img/Croquet%20Programming%201.0B.pdf)几乎是仅有的)，可以通过测试(tests)代码去理解对象。
