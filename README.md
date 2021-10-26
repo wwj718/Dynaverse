@@ -104,7 +104,11 @@ live: live programming
 *  [Back to the future: the story of Squeak, a practical Smalltalk written in itself](https://www.vpri.org/pdf/tr1997001_backto.pdf)
 *  [worrydream refs](http://worrydream.com/refs/) 中与 Kay、Smith、Sutherland 相关的论文
 *  [Naming and Synchronization in a Decentralized Computer System](http://worrydream.com/refs/Reed%20-%20Naming%20and%20Synchronization%20in%20a%20Decentralized%20Computer%20System.pdf): TeaTime协议的源头
+*  [planetcroquet](https://planetcroquet.squeak.org/)
+*  [croquet.zone](http://www.croquet.zone/)
+*  [Quora Alan-Kay](https://www.quora.com/profile/Alan-Kay-11)
 *  [《雪崩》](https://book.douban.com/subject/3816895/): Metaverse概念的来源
+*  [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
 
 ## 参考项目
 *  [croquet-squeak](https://github.com/NikolaySuslov/croquet-squeak)
@@ -127,9 +131,10 @@ live: live programming
 
 希望围绕 Alan Kay、Smith... 过去的工作，形成一个有深度的讨论社区。 Alan Kay 将他的大部分工作成果，都归源于当时他所处的那个讨论团体。
 
+
 ### 你目前在做什么？
 
-我目前在写一篇文章《Dynaverse: A Metaverse for Children of All Agess》, 向 Alan Kay 在 1972 年写的 [A Computer for Children of All Ages](https://www.mprove.de/visionreality/media/Kay72a.pdf) 致敬。
+我目前在写一篇文章《Dynaverse: A Metaverse for Children of All Ages》, 向 Alan Kay 在 1972 年写的 [A Computer for Children of All Ages](https://www.mprove.de/visionreality/media/Kay72a.pdf) 致敬。
 
 首先，致力于勾勒出愿景，描述在这个想象的世界中，人们如何生活、学习、娱乐、工作、创造...
 
@@ -147,7 +152,7 @@ live: live programming
 
 ### 如何阅读 Croquet 源码
 
-简易以建构主义式的学习方法(Smalltalk的设计深受其影响)
+建议以建构主义式的学习方法(Smalltalk的设计深受其影响)
 
 去跟对象(Objects)玩耍，把它们看作你房间里的玩具，推一推它，堆在一起试试...
 
