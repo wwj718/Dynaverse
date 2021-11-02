@@ -80,11 +80,15 @@ live: live programming
 
 *  梯子画云
 *  齿轮与细胞
+*  雅典(Athens)
 
 <img width=350 src="https://www.codelab.club/img/8e7dc0768797cfa0fa044a407cbc0bd1.png" />
 
-
 <img width=500 src="https://adapter.codelab.club/img/003610-scaling-computers.jpg" />
+
+<img width=500 src="https://adapter.codelab.club/img/The_School_of_Athens.jpeg" />
+
+
 
 ## 推荐阅读
 
@@ -109,6 +113,7 @@ live: live programming
 *  [Quora Alan-Kay](https://www.quora.com/profile/Alan-Kay-11)
 *  [《雪崩》](https://book.douban.com/subject/3816895/): Metaverse概念的来源
 *  [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
+*  [An Interview with Mark Zuckerberg about the Metaverse](https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/)
 
 ## 参考项目
 *  [croquet-squeak](https://github.com/NikolaySuslov/croquet-squeak)
@@ -118,6 +123,10 @@ live: live programming
 *  [Tref](3dicc.com)
 *  [croquet.io](https://croquet.io/)
 *  [hubs](https://github.com/mozilla/hubs)
+*  [caffeine](https://caffeine.js.org/)
+   *  [squeakjs](https://squeak.js.org/)
+*  [CodeChisel3D](https://robert.kra.hn/past-projects/live-programming-with-three-and-webvr.html)
+   *  作者[未提交全源码](https://github.com/cdglabs/CodeChisel3D/issues/3)，目前无法运行。
 
 ## FAQ
 
@@ -148,7 +157,7 @@ live: live programming
 
 *  [Smalltalk 入门导览](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/smalltalk-guide/)
 *  [TheCuisBook](https://cuis-smalltalk.github.io/TheCuisBook/)
-
+   *  [中文版](https://github.com/lounsen/TheChineseCuisBook)
 
 ### 如何阅读 Croquet 源码
 
@@ -157,3 +166,11 @@ live: live programming
 去跟对象(Objects)玩耍，把它们看作你房间里的玩具，推一推它，堆在一起试试...
 
 目前的文档不多([Croquet Programming 1.0B](https://wwj718.github.io/post/img/Croquet%20Programming%201.0B.pdf)几乎是仅有的)，可以通过测试(tests)代码去理解对象。
+
+### 技术选型
+
+暂定:
+
+*  webXR
+*  webGPU
+*  squeakjs/lively
