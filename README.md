@@ -118,6 +118,7 @@ live: live programming
 ## 参考项目
 *  [croquet-squeak](https://github.com/NikolaySuslov/croquet-squeak)
    *  [open-croquet-for-squeak-6](https://blog.krestianstvo.org/en/open-croquet-for-squeak-6/)
+      *  项目年久失修，目前只发现一个 [可运行版本](https://www.krestianstvo.org/sdk/croquet/Squeak5.2-18225-32bit-All-in-One-Croquet.zip): 在 32bit windows7 上运行
 *  [wikipedia open cobalt](https://en.wikipedia.org/wiki/Open_Cobalt)
 *  [krestianstvo.org](https://www.krestianstvo.org/sdk3)
 *  [Tref](3dicc.com)
