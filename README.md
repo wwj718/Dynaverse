@@ -95,6 +95,7 @@ live: live programming
 *  [[译]AR/VR 为何将获胜？它将如何获胜为何重要？](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/why-ar-will-win/)
 *  [[译]Croquet: 一个协作系统架构](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/croqueta-collaboration-system-architecture/)
 *  [[译]Smalltalk背后的设计原则](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/design-principles-behind-smalltalk/)
+*   [A few words on Doug Engelbart](http://worrydream.com/Engelbart/)
 *  [Croquet Programming 1.0B](https://wwj718.github.io/post/img/Croquet%20Programming%201.0B.pdf)
    *  这本册子目前在互联网上找不见了，我在[archive.org](https://archive.org/)里找到的。有我的阅读笔记
 *  [wikipedia Croquet Project](https://en.wikipedia.org/wiki/Croquet_Project)
@@ -113,7 +114,8 @@ live: live programming
 *  [Quora Alan-Kay](https://www.quora.com/profile/Alan-Kay-11)
 *  [《雪崩》](https://book.douban.com/subject/3816895/): Metaverse概念的来源
 *  [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
-*  [An Interview with Mark Zuckerberg about the Metaverse](https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/)
+*  [The Dream Machine](https://book.douban.com/subject/1751009/)
+   *  Lounsen 正在翻译，预计明年读库会出版
 
 ## 参考项目
 *  [croquet-squeak](https://github.com/NikolaySuslov/croquet-squeak)
