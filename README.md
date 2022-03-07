@@ -65,13 +65,12 @@ live: live programming
 *  OMeta/Ohm
    *  脚本语言(Python/JavaScript/Lua/Smalltalk)
 *  WebGPU/WebGL/WebAssembly/...
-*  《游戏引擎架构》
 
 ## 与主流的交叉点
-*  OpenXR
+*  OpenXR/WebXR
+*  threejs/aframe
 *  glTF
 *  Blender
-*  threejs/aframe
 *  ...
 
 ## Logo
@@ -87,8 +86,6 @@ live: live programming
 <img width=500 src="https://adapter.codelab.club/img/003610-scaling-computers.jpg" />
 
 <img width=500 src="https://adapter.codelab.club/img/The_School_of_Athens.jpeg" />
-
-
 
 ## 推荐阅读
 
@@ -116,6 +113,9 @@ live: live programming
 *  [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html)
 *  [The Dream Machine](https://book.douban.com/subject/1751009/)
    *  Lounsen 正在翻译，预计明年读库会出版
+*  《游戏引擎架构》
+*  《游戏设计艺术》
+*  《栖息地：来自一个在线社区的报告》
 
 ## 参考项目
 *  [croquet-squeak](https://github.com/NikolaySuslov/croquet-squeak)
@@ -123,7 +123,7 @@ live: live programming
       *  项目年久失修，目前只发现一个 [可运行版本](https://www.krestianstvo.org/sdk/croquet/Squeak5.2-18225-32bit-All-in-One-Croquet.zip): 在 32bit windows7 上运行
 *  [wikipedia open cobalt](https://en.wikipedia.org/wiki/Open_Cobalt)
 *  [krestianstvo.org](https://www.krestianstvo.org/sdk3)
-*  [Tref](3dicc.com)
+*  [Tref](https://3dicc.com)
 *  [croquet.io](https://croquet.io/)
 *  [hubs](https://github.com/mozilla/hubs)
 *  [caffeine](https://caffeine.js.org/)
@@ -158,6 +158,7 @@ live: live programming
 ### 如何入门Smalltalk
 一些推荐资料:
 
+*  [Smalltalk Overview](http://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html): 最适合有过主流编程语言经验的人
 *  [Smalltalk 入门导览](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/smalltalk-guide/)
 *  [TheCuisBook](https://cuis-smalltalk.github.io/TheCuisBook/)
    *  [中文版](https://github.com/lounsen/TheChineseCuisBook)
@@ -174,6 +175,6 @@ live: live programming
 
 暂定:
 
-*  webXR
-*  webGPU
-*  squeakjs/lively
+*  WebXR
+*  WebGPU
+*  Lively/Squeakjs
