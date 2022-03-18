@@ -52,6 +52,11 @@ live: live programming
 *  Squeak/Smalltalk
    *  [Morphic](http://wiki.squeak.org/squeak/morph)
       *  递归渲染树
+   *  [Tweak](http://wiki.squeak.org/squeak/3867)
+      *  Island
+      *  Asynchronous Messaging
+      *  Players and Costumes
+      *  Tile Scripting
    *  [Croquet](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/croqueta-collaboration-system-architecture/)
       *  Teapot
          *  半保留的模型(semi-retained model)
@@ -92,7 +97,8 @@ live: live programming
 *  [[译]AR/VR 为何将获胜？它将如何获胜为何重要？](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/why-ar-will-win/)
 *  [[译]Croquet: 一个协作系统架构](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/croqueta-collaboration-system-architecture/)
 *  [[译]Smalltalk背后的设计原则](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/design-principles-behind-smalltalk/)
-*   [A few words on Doug Engelbart](http://worrydream.com/Engelbart/)
+*  《建筑的永恒之道》
+*  [A few words on Doug Engelbart](http://worrydream.com/Engelbart/)
 *  [Croquet Programming 1.0B](https://wwj718.github.io/post/img/Croquet%20Programming%201.0B.pdf)
    *  这本册子目前在互联网上找不见了，我在[archive.org](https://archive.org/)里找到的。有我的阅读笔记
 *  [wikipedia Croquet Project](https://en.wikipedia.org/wiki/Croquet_Project)
