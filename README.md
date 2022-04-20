@@ -183,4 +183,4 @@ live: live programming
 
 *  WebXR
 *  WebGPU
-*  Lively/Squeakjs
+*  Lively
